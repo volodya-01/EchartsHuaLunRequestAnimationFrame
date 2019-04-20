@@ -2,7 +2,7 @@
 //1.引入axios(npm install axios)
 //2.在vue项目中使用echarts（npm install echarts --save）
 > A Vue.js project
-
+项目预览页线上地址：https://volodya-01.github.io/Echartshualunball/
 ## Build Setup
 
 ``` bash
